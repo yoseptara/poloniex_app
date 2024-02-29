@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBx3mhvGnEnDl-pNdD2lcpQOU6_yuAlnow</string>
+	<key>GCM_SENDER_ID</key>
+	<string>288004417882</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.poloniexApp</string>
+	<key>PROJECT_ID</key>
+	<string>poloniex-app-ea0ca</string>
+	<key>STORAGE_BUCKET</key>
+	<string>poloniex-app-ea0ca.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:288004417882:ios:e9dc511c5bffc66748eb63</string>
+</dict>
+</plist>
